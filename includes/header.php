@@ -7,16 +7,14 @@
                     <div class="header-contact-info">
                         <ul>
                             <li>
-                                <a href="tel:+01-977-2599-12"><i class="fas fa-phone-alt"></i> +01 (977) 2599 12</a>
+                                <a href="tel:+521234567890"><i class="fas fa-phone-alt"></i> +52 123 456 7890</a>
                             </li>
                             <li>
-                                <a
-                                    href="https://demo.bosathemes.com/cdn-cgi/l/email-protection#1a7975776a7b74635a7e75777b737434797577"><i
-                                        class="fas fa-envelope"></i> <span class="__cf_email__"
-                                        data-cfemail="75161a1805141b0c35111a18141c1b5b161a18">[email&#160;protected]</span></a>
+                                <a href="mailto:info@consultorambiental.com"><i class="fas fa-envelope"></i>
+                                    info@consultorambiental.com</a>
                             </li>
                             <li>
-                                <i class="fas fa-map-marker-alt"></i> 3146 Koontz Lane, California
+                                <i class="fas fa-map-marker-alt"></i> San José del Cabo, B.C.S.
                             </li>
                         </ul>
                     </div>
@@ -30,11 +28,6 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.twitter.com/" target="_blank">
-                                    <i class="fab fa-twitter" aria-hidden="true"></i>
-                                </a>
-                            </li>
-                            <li>
                                 <a href="https://www.youtube.com/" target="_blank">
                                     <i class="fab fa-youtube" aria-hidden="true"></i>
                                 </a>
@@ -44,18 +37,13 @@
                                     <i class="fab fa-instagram" aria-hidden="true"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://www.linkedin.com/" target="_blank">
-                                    <i class="fab fa-linkedin" aria-hidden="true"></i>
-                                </a>
-                            </li>
                         </ul>
                     </div>
-                    <div class="header-search-icon">
+                    <!-- <div class="header-search-icon">
                         <button class="search-icon">
                             <i class="fas fa-search"></i>
                         </button>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -74,12 +62,12 @@
                     <nav id="navigation" class="navigation d-none d-lg-inline-block">
                         <ul>
                             <li class="current-menu-item">
-                                <a href="index.html">Home</a>
+                                <a href="index.html">Inicio</a>
                             </li>
                             <li>
-                                <a href="about.html">Abouts</a>
+                                <a href="about.html">Nosotros</a>
                             </li>
-                            <li class="menu-item-has-children">
+                            <!-- <li class="menu-item-has-children">
                                 <a href="#">Pages</a>
                                 <ul>
                                     <li>
@@ -140,14 +128,17 @@
                                         <a href="product-checkout.html">Shop Checkout</a>
                                     </li>
                                 </ul>
+                            </li> -->
+                            <li>
+                                <a href="contact.html">Galería</a>
                             </li>
                             <li>
-                                <a href="contact.html">Contact</a>
+                                <a href="contact.html">Servicios</a>
                             </li>
                         </ul>
                     </nav>
                     <div class="header-btn d-inline-block">
-                        <a href="donate.html" class="button-round-primary">Donate Now</a>
+                        <a href="donate.html" class="button-round-primary">Contactar</a>
                     </div>
                 </div>
             </div>
