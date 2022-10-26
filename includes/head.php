@@ -28,5 +28,5 @@
         rel="stylesheet">
     <!-- Custom CSS -->
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Environ | Environment Charity HTML5 Template</title>
+    <title>Gestion Integral Ambiental</title>
 </head>
