@@ -148,9 +148,9 @@
                     <div class="section-about-right">
                         <div class="section-about-content">
                             <div class="section-head">
-                                <div class="back-title">ABOUT US</div>
-                                <h2 class="section-title">We Have Power Today To Change <span
-                                        class="primary-color">Tomorrow!
+                                <div class="back-title">Nosotros</div>
+                                <h2 class="section-title">Tenemos hoy el poder para cambiar <span
+                                        class="primary-color">el mañana
                                         <svg class="title-shape" xmlns="http://www.w3.org/2000/svg"
                                             viewBox="0 0 500 150" preserveAspectRatio="none">
                                             <path
@@ -160,23 +160,22 @@
                                     </span>
                                 </h2>
                                 <div class="section-disc">
-                                    Odit fugit excepteur eiusmod fames, aliqua odio phasellus aliqua aenean, ratione
-                                    primis. Nobis molestie adipisicing iaculis vel do, assumenda rutrum? Consequatur
-                                    unde impedit scelerisque cillum aliqua odio phasellus .
+                                    Somos una organización enfocada a brindar servicios de consultoría ambiental
+                                    orientados a organismos públicos, particulares y empresas privadas. 
+                                    Conformada por un grupo de profesionales y especialistas en materia de ecología y ciencias afines con el propósito común de
+                                    generar un equilibrio entre el desarrollo de la sociedad y el ambiente.
                                 </div>
                             </div>
                             <div class="about-list">
                                 <ul>
-                                    <li>Praesentium voluptatum dolores, vulputate.</li>
-                                    <li>Cillum nullam rem volutpat earum.</li>
-                                    <li>Odio doloribus lacus quaerat assumenda.</li>
-                                    <li>Natoque, cubilia eos ipsa, vehicula.</li>
-                                    <li>Cillum nullam rem volutpat earum.</li>
+                                    <li>Comprometidos con el ambiente.</li>
+                                    <li>Profesionales de calidad.</li>
+                                    <li>Innovación tecnológica.</li>
                                 </ul>
                                 <div class="exp-date">
-                                    <h3>28</h3>
-                                    <h4>YEARS</h4>
-                                    <span class="date-decs">OF EXPERIENCE</span>
+                                    <h3>20</h3>
+                                    <h4>Años</h4>
+                                    <span class="date-decs">De experiencia</span>
                                 </div>
                             </div>
                         </div>
