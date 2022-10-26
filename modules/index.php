@@ -6,9 +6,9 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="banner-content text-center">
                         <div class="section-head">
-                            <div class="back-title">
+                            <!-- <div class="back-title">
                                 Gestión
-                            </div>
+                            </div> -->
                             <h2 class="section-title banner-title">Comprometidos con el <span
                                     class="primary-color">AMBIENTE
                                     <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
@@ -41,7 +41,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-head white-section-head">
-                            <div class="back-title">INVOLVE NOW</div>
+                            <!-- <div class="back-title">INVOLVE NOW</div> -->
                             <h2 class="section-title">Let's Join To Build The Better World <span
                                     class="primary-color">Together
                                     <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
@@ -148,7 +148,8 @@
                     <div class="section-about-right">
                         <div class="section-about-content">
                             <div class="section-head">
-                                <div class="back-title">Nosotros</div>
+                                <!-- <div class="back-title">Nosotros</div> -->
+                                <h4>Acerca de nosotros</h4>
                                 <h2 class="section-title">Tenemos hoy el poder para cambiar <span
                                         class="primary-color">el mañana
                                         <svg class="title-shape" xmlns="http://www.w3.org/2000/svg"
@@ -161,8 +162,9 @@
                                 </h2>
                                 <div class="section-disc">
                                     Somos una organización enfocada a brindar servicios de consultoría ambiental
-                                    orientados a organismos públicos, particulares y empresas privadas. 
-                                    Conformada por un grupo de profesionales y especialistas en materia de ecología y ciencias afines con el propósito común de
+                                    orientados a organismos públicos, particulares y empresas privadas.
+                                    Conformada por un grupo de profesionales y especialistas en materia de ecología y
+                                    ciencias afines con el propósito común de
                                     generar un equilibrio entre el desarrollo de la sociedad y el ambiente.
                                 </div>
                             </div>
@@ -337,8 +339,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="section-head white-section-head">
-                        <div class="back-title">ABOUT US</div>
-                        <h2 class="section-title">We Have Power Today To Change <span class="primary-color">Tomorrow!
+                        <!-- <div class="back-title">Soluciones</div> -->
+                        <h3 style="color: white;">Soluciones</h3>
+                        <h2 class="section-title">Comprometidos con el <span class="primary-color">Ambiente
                                 <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
                                     preserveAspectRatio="none">
                                     <path
@@ -348,20 +351,23 @@
                             </span>
                         </h2>
                         <div class="section-disc">
-                            Odit fugit excepteur eiusmod fames, aliqua odio phasellus aliqua aenean, ratione primis.
-                            Nobis molestie adipisicing iaculis vel do, assumenda rutrum? Consequatur unde impedit
-                            scelerisque cillum aliqua odio phasellus .
+                            Los proyectos y actividades se realizan de forma respetuosa con
+                            la conservación del ambiente, desde la perspectiva del cuidado del entorno natural y el
+                            desarrollo
+                            sostenible.
                         </div>
                     </div>
-                    <div class="video-button">
+                    <!-- <div class="video-button">
                         <a id="video-container-two" data-video-id="IUN664s7N-c">
                             <i class="fas fa-play"></i>
                         </a>
                         <span>PLAY SHORT VIDEO</span>
-                    </div>
+                    </div> -->
+                    <a href="contacto.php" class="button-round-primary">Contactar</a>
                 </div>
                 <div class="col-lg-6">
-                    <div class="home-contact-form">
+                    <img src="assets/images/img5.jpg" alt="">
+                    <!-- <div class="home-contact-form">
                         <form class="contact-form row">
                             <div class="col-12 mb-4">
                                 <input type="text" class="form-control" placeholder="Enter Name*">
@@ -379,7 +385,7 @@
                                 <button type="submit" class="button-round-secondary">Get Involve Today</button>
                             </div>
                         </form>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -478,8 +484,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="section-head text-center">
-                        <div class="back-title">PORTFOLIO</div>
-                        <h2 class="section-title">Portfolio <span class="primary-color">Gallery
+                        <!-- <div class="back-title">PORTFOLIO</div> -->
+                        <h2 class="section-title"><span class="primary-color">Galería
                                 <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
                                     preserveAspectRatio="none">
                                     <path
@@ -489,8 +495,7 @@
                             </span>
                         </h2>
                         <div class="section-disc">
-                            Ut commodo pulvinar veritatis occaecati mauris, tristique tristique turpis pharetra beatae
-                            litora donec pharetra, recusandae, volutpat.
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam minus ipsum est explicabo dicta laborum voluptate officia earum aliquam quae?
                         </div>
                     </div>
                 </div>
@@ -561,7 +566,7 @@
     <section class="client-section">
         <div class="container">
             <h5 class="divider-title">
-                <span>PARTNER & SPONSERS</span>
+                <span>Empresas con las que hemos trabajado</span>
             </h5>
             <div class="client-wrap client-slider text-center">
                 <div class="client-item">
@@ -608,7 +613,7 @@
                                 <div class="fact-icon">
                                     <i aria-hidden="true" class="icon icon-user1"></i>
                                 </div>
-                                <h4>Our Volunteer Earned Through Our Good Work</h4>
+                                <h4>Todos están sumándose al cambio</h4>
                             </div>
                         </div>
                         <div class="fact-item">
@@ -626,7 +631,7 @@
                                 <div class="fact-icon">
                                     <i aria-hidden="true" class="icon icon-Leaf"></i>
                                 </div>
-                                <h4>Our Fundraising For Any Nature Related Program</h4>
+                                <h4>Enfocados en brindar servicios de consultoría ambiental</h4>
                             </div>
                         </div>
                     </div>
@@ -634,8 +639,8 @@
                 <div class="col-lg-6">
                     <div class="counter-inner">
                         <div class="section-head white-section-head">
-                            <div class="back-title">FUN FACT</div>
-                            <h2 class="section-title">Our Work Promise To Uphold The <span class="primary-color">Trust !
+                            <!-- <div class="back-title">FUN FACT</div> -->
+                            <h2 class="section-title">Nuestra promesa de trabajo para ganarnos su <span class="primary-color">Confianza
                                     <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
                                         preserveAspectRatio="none">
                                         <path
@@ -656,21 +661,21 @@
                                         <span class="counter">320</span>+
                                     </span>
                                     <span class="counter-text">
-                                        Project Done
+                                        Proyectos
                                     </span>
                                 </div>
                             </div>
                             <div class="counter-item">
                                 <div class="counter-content">
                                     <span class="counter-no">
-                                        <span class="counter">25</span>+
+                                        <span class="counter">100</span>+
                                     </span>
                                     <span class="counter-text">
-                                        Award Achieved
+                                        Consultorías
                                     </span>
                                 </div>
                             </div>
-                            <div class="counter-item">
+                            <!-- <div class="counter-item">
                                 <div class="counter-content">
                                     <span class="counter-no">
                                         <span class="counter">18</span>+
@@ -689,7 +694,7 @@
                                         Happy Volunteer
                                     </span>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -703,8 +708,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="section-head text-center">
-                        <div class="back-title">TESTIMONIAL</div>
-                        <h2 class="section-title">Donator's <span class="primary-color">Reviews
+                        <!-- <div class="back-title">TESTIMONIAL</div> -->
+                        <h2 class="section-title">¿Qué dicen de  <span class="primary-color">Nosotros?
                                 <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
                                     preserveAspectRatio="none">
                                     <path
@@ -725,7 +730,7 @@
                     <div class="col-md-6">
                         <div class="testimonial-item d-flex flex-wrap align-items-center">
                             <figure class="testimonial-img">
-                                <img src="assets/images/author-img1.jpg" alt="">
+                                <img src="assets/images/user-img.png" alt="">
                             </figure>
                             <div class="testimonial-content">
                                 <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
@@ -737,7 +742,7 @@
                     <div class="col-md-6">
                         <div class="testimonial-item d-flex flex-wrap align-items-center">
                             <figure class="testimonial-img">
-                                <img src="assets/images/author-img2.jpg" alt="">
+                                <img src="assets/images/user-img.png" alt="">
                             </figure>
                             <div class="testimonial-content">
                                 <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
@@ -749,7 +754,7 @@
                     <div class="col-md-6">
                         <div class="testimonial-item d-flex flex-wrap align-items-center">
                             <figure class="testimonial-img">
-                                <img src="assets/images/author-img3.jpg" alt="">
+                                <img src="assets/images/user-img.png" alt="">
                             </figure>
                             <div class="testimonial-content">
                                 <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
@@ -761,7 +766,7 @@
                     <div class="col-md-6">
                         <div class="testimonial-item d-flex flex-wrap align-items-center">
                             <figure class="testimonial-img">
-                                <img src="assets/images/author-img4.jpg" alt="">
+                                <img src="assets/images/user-img.png" alt="">
                             </figure>
                             <div class="testimonial-content">
                                 <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
@@ -880,7 +885,7 @@
         </div>
     </section>
     <!-- home callback section html start -->
-    <section class="callback-section" style="background-image: url(assets/images/img5.jpg);">
+    <section hidden class="callback-section" style="background-image: url(assets/images/img5.jpg);">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-8">
