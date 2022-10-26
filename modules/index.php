@@ -186,7 +186,7 @@
         </div>
     </section>
     <!-- home progress section html start -->
-    <div class="progress-section">
+    <div hidden class="progress-section">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -217,7 +217,7 @@
         </div>
     </div>
     <!-- home charity section html start -->
-    <section class="charity-section bg-light-grey">
+    <section hidden class="charity-section bg-light-grey">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -387,7 +387,7 @@
         <div class="overlay"></div>
     </section>
     <!-- home event section html start -->
-    <section class="event-section secondary-bg">
+    <section hidden class="event-section secondary-bg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -777,7 +777,7 @@
         <div class="pattern-overlay"></div>
     </section>
     <!-- home blog section html start -->
-    <section class="blog-section">
+    <section hidden class="blog-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
