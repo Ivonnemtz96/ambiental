@@ -6,9 +6,11 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="banner-content text-center">
                         <div class="section-head">
-                            <div class="back-title">DONATION</div>
-                            <h2 class="section-title banner-title">Make An Impact & Give Back To <span
-                                    class="primary-color">Nature
+                            <div class="back-title">
+                                Gestión
+                            </div>
+                            <h2 class="section-title banner-title">Comprometidos con el <span
+                                    class="primary-color">AMBIENTE
                                     <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
                                         preserveAspectRatio="none">
                                         <path
@@ -18,12 +20,13 @@
                                 </span></h2>
                         </div>
                         <div class="banner-text">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
-                                ullamcorper mattis, ipsum dolor sit pulvinar dapibus leo ipsum dolor sit.</p>
+                            <p>
+                                Comprometidos contigo, soluciones sustentables a la problemática ambiental
+                            </p>
                         </div>
                         <div class="banner-button">
-                            <a href="about.html" class="button-round-primary">Learn More</a>
-                            <a href="donate.html" class="button-round-white">Donate Fund</a>
+                            <a href="about.html" class="button-round-primary">Más información</a>
+                            <a href="donate.html" class="button-round-white">Contactar</a>
                         </div>
                     </div>
                 </div>
