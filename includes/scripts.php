@@ -1,5 +1,7 @@
 <!-- JavaScript -->
-<script data-cfasync="false" src="https://demo.bosathemes.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/vendors/jquery/jquery.js"></script>
+<script data-cfasync="false"
+    src="https://demo.bosathemes.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="assets/vendors/jquery/jquery.js"></script>
 <script src="assets/vendors/waypoint/jquery.waypoints.min.js"></script>
 <script src="assets/vendors/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/vendors/progressbar-fill-visible/js/progressBar.min.js"></script>
