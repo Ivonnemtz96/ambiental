@@ -53,7 +53,7 @@
             <div class="hgroup-wrap d-flex justify-content-between align-items-center">
                 <div class="site-identity">
                     <h1 class="site-title">
-                        <a href="index.html">
+                        <a href="index.php">
                             <img src="assets/images/site-logo.png" alt="logo">
                         </a>
                     </h1>
@@ -62,10 +62,10 @@
                     <nav id="navigation" class="navigation d-none d-lg-inline-block">
                         <ul>
                             <li class="current-menu-item">
-                                <a href="index.html">Inicio</a>
+                                <a href="index.php">Inicio</a>
                             </li>
                             <li>
-                                <a href="about.html">Nosotros</a>
+                                <a href="nosotros.php">Nosotros</a>
                             </li>
                             <!-- <li class="menu-item-has-children">
                                 <a href="#">Pages</a>
@@ -130,15 +130,15 @@
                                 </ul>
                             </li> -->
                             <li>
-                                <a href="contact.html">Galería</a>
+                                <a href="galeria.php">Galería</a>
                             </li>
                             <li>
-                                <a href="contact.html">Servicios</a>
+                                <a href="servicios.php">Servicios</a>
                             </li>
                         </ul>
                     </nav>
                     <div class="header-btn d-inline-block">
-                        <a href="donate.html" class="button-round-primary">Contactar</a>
+                        <a href="contacto.php" class="button-round-primary">Contactar</a>
                     </div>
                 </div>
             </div>
