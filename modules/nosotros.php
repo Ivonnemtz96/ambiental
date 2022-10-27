@@ -62,7 +62,7 @@
                             <div class="grid-item">
                                 <article class="post">
                                     <figure class="pt-4">
-                                            <img src="assets/images/icons/planeta.png" alt="">
+                                        <img src="assets/images/icons/planeta.png" alt="">
                                     </figure>
                                     <hr>
                                     <div class="entry-content">
@@ -207,7 +207,7 @@
             </div>
         </div>
         <!-- client section html start -->
-        <div class="client-section">
+        <div hidden class="client-section">
             <div class="container">
                 <div class="client-wrap client-slider text-center">
                     <div class="client-item">
@@ -245,16 +245,16 @@
         </div>
         <!-- client html end -->
         <!-- home callback section html start -->
-        <div class="callback-inner-page" style="background-image: url(assets/images/banner-img.jpg);">
+        <div class="callback-inner-page mt-5" style="background-image: url(assets/images/banner-img.jpg);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="callback-content text-center">
                             <div class="section-head">
-                                <div class="back-title">INVOLVE NOW</div>
-                                <h2 class="section-title">We've Funfed 13,500 Chairt Projects For 25M People Arpund
-                                    The
-                                    <span class="primary-color">World !
+                                <!-- <div class="back-title">INVOLVE NOW</div> -->
+                                <h2 class="section-title">
+                                    Evaluaciones del medio ambiente para cumplimiento de la 
+                                    <span class="primary-color">normatividad.
                                         <svg class="title-shape" xmlns="http://www.w3.org/2000/svg"
                                             viewBox="0 0 500 150" preserveAspectRatio="none">
                                             <path
