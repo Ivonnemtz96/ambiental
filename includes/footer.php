@@ -1,5 +1,5 @@
 <footer id="colophon" class="site-footer footer-primary">
-    <div class="top-footer">
+    <div hidden class="top-footer">
         <div class="container">
             <div class="upper-footer">
                 <div class="row">
@@ -162,8 +162,42 @@
         </div>
     </div>
     <div class="bottom-footer">
+        <div class="row">
+            <div class="col-lg-12 text-right">
+                <div class="social-links">
+                    <ul>
+                        <li>
+                            <a style="color: #fff;" href="https://www.facebook.com/" target="_blank">
+                                <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <!-- <li>
+                            <a style="color: #fff;" href="https://www.twitter.com/" target="_blank">
+                                <i class="fab fa-twitter" aria-hidden="true"></i>
+                            </a>
+                        </li> -->
+                        <li>
+                            <a style="color: #fff;" href="https://www.youtube.com/" target="_blank">
+                                <i class="fab fa-youtube" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a style="color: #fff;" href="https://www.instagram.com/" target="_blank">
+                                <i class="fab fa-instagram" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <!-- <li>
+                            <a style="color: #fff;" href="https://www.linkedin.com/" target="_blank">
+                                <i class="fab fa-linkedin" aria-hidden="true"></i>
+                            </a>
+                        </li> -->
+                    </ul>
+                </div>
+            </div>
+        </div>
         <div class="container">
-            <div class="copy-right text-center">Copyright &copy; 2022 Environ. All rights reserved.</div>
+            <div class="copy-right text-center">Copyright &copy; 2022 Gestión ambiental. Creado por <a target="_blank"
+                    href="https://bananagroup.mx"><b>Banana Group Marketing</b></a></div>
         </div>
     </div>
 </footer>

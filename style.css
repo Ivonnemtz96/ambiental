@@ -3744,7 +3744,7 @@ input[type=submit]:focus {
 ----------------------------------------------------------------*/
 .site-footer {
   background-color: #0E3500;
-  padding-top: 80px;
+  /* padding-top: 80px; */
 }
 .site-footer .top-footer {
   padding-bottom: 55px;
