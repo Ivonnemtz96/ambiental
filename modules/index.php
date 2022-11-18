@@ -9,12 +9,9 @@
                             <!-- <div class="back-title">
                                 Gestión
                             </div> -->
-                            <h2 class="section-title banner-title">Comprometidos con el <span
-                                    class="primary-color">AMBIENTE
-                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                        preserveAspectRatio="none">
-                                        <path
-                                            d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                            <h2 class="section-title banner-title">Comprometidos con el <span class="primary-color">AMBIENTE
+                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                        <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                         </path>
                                     </svg>
                                 </span></h2>
@@ -42,20 +39,15 @@
                     <div class="col-lg-6">
                         <div class="section-head white-section-head">
                             <!-- <div class="back-title">INVOLVE NOW</div> -->
-                            <h2 class="section-title">Let's Join To Build The Better World <span
-                                    class="primary-color">Together
-                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                        preserveAspectRatio="none">
-                                        <path
-                                            d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                            <h2 class="section-title">Unámonos para construir juntos un <span class="primary-color">mundo mejor
+                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                        <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                         </path>
                                     </svg>
                                 </span>
                             </h2>
                             <div class="section-disc">
-                                Odit fugit excepteur eiusmod fames, aliqua odio phasellus aliqua aenean, ratione primis.
-                                Nobis molestie adipisicing iaculis vel do, assumenda rutrum? Consequatur unde impedit
-                                scelerisque cillum aliqua odio phasellus .
+                                Asesoramos a las empresas del sector industrial, construcción, comercial y de servicios, para que logren el cumplimiento de las obligaciones legales en materia ambiental.
                             </div>
                         </div>
                     </div>
@@ -81,9 +73,9 @@
                                 <img src="assets/images/icon1.png" alt="">
                             </figure>
                             <div class="service-content">
-                                <h4>Solar Energy</h4>
-                                <p>Ad maxime magins nam phasellus lacus nostrud eaque quisque.</p>
-                                <a href="donate.html" class="button-round-primary">DONATE NOW</a>
+                                <h4>Seguimiento ambiental</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempora dicta optio inventore. Quas, nam.</p>
+                                <a href="contacto.php" class="button-round-primary">Contactar</a>
                             </div>
                         </div>
                     </div>
@@ -93,9 +85,9 @@
                                 <img src="assets/images/icon2.png" alt="">
                             </figure>
                             <div class="service-content">
-                                <h4>Planting Project</h4>
-                                <p>Ad maxime magins nam phasellus lacus nostrud eaque quisque.</p>
-                                <a href="volunteer.html" class="button-round-primary">JOIN US NOW</a>
+                                <h4>Protección civil</h4> <br>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempora dicta optio inventore. Quas, nam.</p>
+                                <a href="contacto.php" class="button-round-primary">Contactar</a>
                             </div>
                         </div>
                     </div>
@@ -105,9 +97,9 @@
                                 <img src="assets/images/icon4.png" alt="">
                             </figure>
                             <div class="service-content">
-                                <h4>Recycle Project</h4>
-                                <p>Ad maxime magins nam phasellus lacus nostrud eaque quisque.</p>
-                                <a href="donate.html" class="button-round-primary">DONATE NOW</a>
+                                <h4>Asesorías y estudios</h4> <br>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempora dicta optio inventore. Quas, nam.</p>
+                                <a href="contacto.php" class="button-round-primary">Contactar</a>
                             </div>
                         </div>
                     </div>
@@ -117,9 +109,9 @@
                                 <img src="assets/images/icon3.png" alt="">
                             </figure>
                             <div class="service-content">
-                                <h4>Be A Volunteer</h4>
-                                <p>Ad maxime magins nam phasellus lacus nostrud eaque quisque.</p>
-                                <a href="volunteer.html" class="button-round-primary">JOIN US NOW</a>
+                                <h4>Servicios técnicos forestales</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempora dicta optio inventore. Quas, nam.</p>
+                                <a href="contacto.php" class="button-round-primary">Contactar</a>
                             </div>
                         </div>
                     </div>
@@ -150,12 +142,9 @@
                             <div class="section-head">
                                 <!-- <div class="back-title">Nosotros</div> -->
                                 <h4>Acerca de nosotros</h4>
-                                <h2 class="section-title">Tenemos hoy el poder para cambiar <span
-                                        class="primary-color">el mañana
-                                        <svg class="title-shape" xmlns="http://www.w3.org/2000/svg"
-                                            viewBox="0 0 500 150" preserveAspectRatio="none">
-                                            <path
-                                                d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                                <h2 class="section-title">Tenemos hoy el poder para cambiar <span class="primary-color">el mañana
+                                        <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                            <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                             </path>
                                         </svg>
                                     </span>
@@ -225,10 +214,8 @@
                     <div class="section-head text-center">
                         <div class="back-title">POPULAR CAUSES</div>
                         <h2 class="section-title">Checkout Popular <span class="primary-color">Causes
-                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                    preserveAspectRatio="none">
-                                    <path
-                                        d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                    <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                     </path>
                                 </svg>
                             </span>
@@ -342,10 +329,8 @@
                         <!-- <div class="back-title">Soluciones</div> -->
                         <h3 style="color: white;">Soluciones</h3>
                         <h2 class="section-title">Comprometidos con el <span class="primary-color">Ambiente
-                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                    preserveAspectRatio="none">
-                                    <path
-                                        d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                    <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                     </path>
                                 </svg>
                             </span>
@@ -399,10 +384,8 @@
                     <div class="section-head white-section-head text-center">
                         <div class="back-title">OUR EVENT</div>
                         <h2 class="section-title">Join Our <span class="primary-color">Events
-                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                    preserveAspectRatio="none">
-                                    <path
-                                        d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                    <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                     </path>
                                 </svg>
                             </span>
@@ -486,10 +469,8 @@
                     <div class="section-head text-center">
                         <!-- <div class="back-title">PORTFOLIO</div> -->
                         <h2 class="section-title"><span class="primary-color">Galería
-                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                    preserveAspectRatio="none">
-                                    <path
-                                        d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                    <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                     </path>
                                 </svg>
                             </span>
@@ -641,10 +622,8 @@
                         <div class="section-head white-section-head">
                             <!-- <div class="back-title">FUN FACT</div> -->
                             <h2 class="section-title">Nuestra promesa de trabajo para ganarnos su <span class="primary-color">Confianza
-                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                        preserveAspectRatio="none">
-                                        <path
-                                            d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                        <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                         </path>
                                     </svg>
                                 </span>
@@ -709,11 +688,9 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="section-head text-center">
                         <!-- <div class="back-title">TESTIMONIAL</div> -->
-                        <h2 class="section-title">¿Qué dicen de  <span class="primary-color">Nosotros?
-                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                    preserveAspectRatio="none">
-                                    <path
-                                        d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                        <h2 class="section-title">¿Qué dicen de <span class="primary-color">Nosotros?
+                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                    <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                     </path>
                                 </svg>
                             </span>
@@ -788,10 +765,8 @@
                     <div class="section-head text-center">
                         <div class="back-title">RECENT BLOG</div>
                         <h2 class="section-title">Our Latest <span class="primary-color">Insights
-                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                    preserveAspectRatio="none">
-                                    <path
-                                        d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                                <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                    <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                     </path>
                                 </svg>
                             </span>
@@ -892,12 +867,9 @@
                     <div class="callback-content">
                         <div class="section-head">
                             <div class="back-title">BE A VOULNTEER</div>
-                            <h2 class="section-title">Let's Change The World, Join Us Now And Become A <span
-                                    class="primary-color">Volunteer !
-                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                        preserveAspectRatio="none">
-                                        <path
-                                            d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                            <h2 class="section-title">Let's Change The World, Join Us Now And Become A <span class="primary-color">Volunteer !
+                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                        <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                         </path>
                                     </svg>
                                 </span>

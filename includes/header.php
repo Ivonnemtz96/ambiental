@@ -54,7 +54,8 @@
                 <div class="site-identity">
                     <h1 class="site-title">
                         <a href="index.php">
-                            <img src="assets/images/site-logo.png" alt="logo">
+                            Logo
+                            <!-- <img src="assets/images/site-logo.png" alt="logo"> -->
                         </a>
                     </h1>
                 </div>
