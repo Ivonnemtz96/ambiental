@@ -126,7 +126,7 @@
                     <div class="col-md-6">
                         <article class="charity-item">
                             <figure class="charity-image">
-                                <img src="assets/images/img14.jpg" alt="">
+                                <img src="assets/images/img-18.jpg" alt="">
                                 <!-- <div class="btn-wrap">
                                     <a href="donate.html" class="button-round-primary">DONATE NOW</a>
                                 </div> -->

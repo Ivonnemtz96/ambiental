@@ -89,7 +89,7 @@
                             <div class="grid-item">
                                 <article class="post">
                                     <figure class="pt-4">
-                                        <a href="blog-single.html">
+                                        <a href="#">
                                             <img src="assets/images/icons/calidad.png" alt="">
                                         </a>
                                     </figure>
@@ -113,7 +113,7 @@
                             <div class="grid-item">
                                 <article class="post">
                                     <figure class="pt-4">
-                                        <a href="blog-single.html">
+                                        <a href="#">
                                             <img src="assets/images/icons/innovation.png" alt="">
                                         </a>
                                     </figure>
@@ -265,7 +265,7 @@
                                 </h2>
                             </div>
                             <div class="button-wrap">
-                                <a href="volunteer.html" class="button-round-primary">Get Involve Now</a>
+                                <a href="#" class="button-round-primary">Get Involve Now</a>
                             </div>
                         </div>
                     </div>
