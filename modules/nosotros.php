@@ -78,7 +78,7 @@
                                             generaciones futuras y sus operaciones se realizan de forma responsable
                                             y eficiente con los
                                             recursos naturales.
-                                        </p>
+                                        </p> <br>
                                     </div>
                                 </article>
                             </div>
@@ -102,7 +102,7 @@
                                             5 años ejerciendo la
                                             consultoría ambiental y 10 años dedicados a la investigación.
                                             <br><br><br><br><br><br>
-                                        </p>
+                                        </p> <br>
                                     </div>
                                 </article>
                             </div>
