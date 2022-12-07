@@ -85,7 +85,7 @@
                                 <img src="assets/images/icon2.png" alt="">
                             </figure>
                             <div class="service-content">
-                                <h4>Protección civil</h4> <br>
+                                <h4>Cursos ambientales</h4> <br>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempora dicta optio inventore. Quas, nam.</p>
                                 <a href="contacto.php" class="button-round-primary">Contactar</a>
                             </div>
@@ -348,7 +348,7 @@
         </div>
     </section>
     <!-- home client section html start -->
-    <section class="client-section">
+    <section hidden class="client-section">
         <div class="container">
             <h5 class="divider-title">
                 <span>Empresas con las que hemos trabajado</span>
@@ -486,7 +486,7 @@
         <div class="overlay"></div>
     </section>
     <!-- home testimonial section html start -->
-    <section class="testimonial-section bg-light-grey">
+    <section hidden class="testimonial-section bg-light-grey">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -561,9 +561,4 @@
         </div>
         <div class="pattern-overlay"></div>
     </section>
-    <!-- home blog section html start -->
-   
-    <!-- home callback section html start -->
-    
-    <!-- home callback section html end -->
 </main>
