@@ -1,4 +1,4 @@
-<footer id="colophon" class="site-footer footer-primary">
+<footer id="colophon" class="site-footer footer-primary" style="margin-top: 8rem;">
     <div hidden class="top-footer">
         <div class="container">
             <div class="upper-footer">
