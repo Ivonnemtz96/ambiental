@@ -163,7 +163,7 @@ $("#backTotop").on( 'click', function(e) {
 
 /* preloader */
 $( window ).on( "load", function() {
-  $( '#siteLoader' ).fadeOut( 500 );
+  $( '#siteLoader' ).fadeOut( 1000 );
   /* Blog masonry */
   MasonryGrid ();
 });

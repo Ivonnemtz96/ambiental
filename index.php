@@ -7,8 +7,8 @@ include('includes/head.php');
 ?>
 
 <body class="home">
-    <?php 
-    include('includes/preloader.php')
+    <?
+        include('includes/preloader.php');
     ?>
     <div id="page" class="full-page">
         <?php

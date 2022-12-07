@@ -1247,14 +1247,14 @@ input[type=submit]:focus {
 }
 .site-loader .preloader-content {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 40%;
+  left: 45%;
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  width: 50px;
+  width: 100px;
 }
 
 .social-links ul {
@@ -7843,4 +7843,8 @@ product checkout css
 }
 .sidebar .upload-widget .button-primary {
   margin-top: 20px;
+}
+
+.rotate {
+  position: absolute;
 }
