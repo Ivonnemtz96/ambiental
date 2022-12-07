@@ -2,7 +2,7 @@
 <html lang="en">
 <?php
 $title = 'Inicio';
-$inicio = 'active';
+$inicio = 'current-menu-item';
 include('includes/head.php');
 ?>
 

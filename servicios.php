@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$title = 'Inicio';
-$inicio = 'active';
+$title = 'Servicios';
+$servicios = 'current-menu-item';
 include('includes/head.php');
 ?>
 

@@ -61,10 +61,10 @@
                 <div class="main-navigation">
                     <nav id="navigation" class="navigation d-none d-lg-inline-block">
                         <ul>
-                            <li class="current-menu-item">
+                            <li class="<?echo $inicio?>">
                                 <a href="index.php">Inicio</a>
                             </li>
-                            <li>
+                            <li class="<?echo $nosotros?>">
                                 <a href="nosotros.php">Nosotros</a>
                             </li>
                             <!-- <li class="menu-item-has-children">
@@ -129,10 +129,10 @@
                                     </li>
                                 </ul>
                             </li> -->
-                            <li>
+                            <li class="<?echo $galeria?>">
                                 <a href="galeria.php">Galería</a>
                             </li>
-                            <li>
+                            <li class="<?echo $servicios?>">
                                 <a href="servicios.php">Servicios</a>
                             </li>
                         </ul>
