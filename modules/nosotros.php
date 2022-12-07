@@ -49,10 +49,8 @@
                 <div class="row h-100 justify-content-center g-3">
                     <h2 class="section-title text-center">
                         Nuestros <span class="primary-color"> Valores
-                            <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150"
-                                preserveAspectRatio="none">
-                                <path
-                                    d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                            <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                 </path>
                             </svg>
                         </span>
@@ -245,7 +243,7 @@
         </div>
         <!-- client html end -->
         <!-- home callback section html start -->
-        <div class="callback-inner-page mt-5" style="background-image: url(assets/images/banner-img.jpg);">
+        <div hidden class="callback-inner-page mt-5" style="background-image: url(assets/images/banner-img.jpg);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
@@ -253,19 +251,17 @@
                             <div class="section-head">
                                 <!-- <div class="back-title">INVOLVE NOW</div> -->
                                 <h2 class="section-title">
-                                    Evaluaciones del medio ambiente para cumplimiento de la 
+                                    Evaluaciones del medio ambiente para cumplimiento de la
                                     <span class="primary-color">normatividad.
-                                        <svg class="title-shape" xmlns="http://www.w3.org/2000/svg"
-                                            viewBox="0 0 500 150" preserveAspectRatio="none">
-                                            <path
-                                                d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
+                                        <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                            <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9">
                                             </path>
                                         </svg>
                                     </span>
                                 </h2>
                             </div>
                             <div class="button-wrap">
-                                <a href="#" class="button-round-primary">Get Involve Now</a>
+                                <a href="contacto.php" class="button-round-primary">Contactar</a>
                             </div>
                         </div>
                     </div>
@@ -276,4 +272,57 @@
         <!-- home callback section html end -->
     </section>
     <!-- About page html end -->
+
+    <div class="carrer-page-section mt-5">
+        <div class="container">
+            <div class="vacancy-section">
+                <div class="section-head text-center">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+
+                            <h2 class="section-title">Conoce un poco más <span class="primary-color"> de nosotros.
+                                    <svg class="title-shape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
+                                        <path d="M9.3,127.3c49.3-3,150.7-7.6,199.7-7.4c121.9,0.4,189.9,0.4,282.3,7.2C380.1,129.6,181.2,130.6,70,139 c82.6-2.9,254.2-1,335.9,1.3c-56,1.4-137.2-0.3-197.1,9"></path>
+                                    </svg>
+                                </span>
+                            </h2>
+                            <div class="section-disc">
+                                Somos una organización enfocada a brindar servicios de consultoría ambiental orientados a organismos públicos, particulares y empresas privadas.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="vacancy-container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="vacancy-content-wrap">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="vacancy-content">
+                                            <h4>Alejandro Pérez Rosales</h4>
+                                            <span>Fundador</span>
+                                            <p>
+                                                Ing. Agrónomo Especialista en Fitotecnia, egresado de la Universidad Autónoma Chapingo, Maestro en Ciencias en Agroforestería para el Desarrollo Sostenible, por la Universidad Autónoma Chapingo, Doctorado en Ciencias en Edafología por el Colegio de Postgraduados Campus Montecillo y Postdoctorado en Agroforestería para el Desarrollo Sostenible en la Universidad Autónoma Chapingo. Con 15 años de experiencia en el sector de planificación y administración agrícola, docencia e investigación. En cuanto a docencia ha colaborado con el Instituto Tecnológico de Tecomatlán, la Universidad Intercultural del Estado de Puebla y actualmente es docente del Instituto Tecnológico Superior de Acatlán de Osorio. Así mismo ha desarrollado proyectos con financiamiento gubernamental sobre: “Jardín etnobiológico de los siete pueblos originarios del estado de Puebla”, “La influencia de la actividad química (CIC Y pH) del suelo sobre la cinética de la volatilización de amonio sistemas agroforestales”, “Establecimiento de un módulo demostrativo para la producción intensiva de higo en la Mixteca Poblana para consumo en fresco y procesado”, entre otros. En ámbito profesional, ha colaborado con en el Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias, con el Instituto Nacional Estadística Geografía e Información. Ha sido, supervisor de siniestros agrícolas y capacitador técnico en temas de manejo de suelos. Es asesor de la empresa Sagksiberries en el área de logística y comercialización.
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="vacancy-content">
+                                            <h4>Elvia Pérez Rosales</h4>
+                                            <span>Fundador</span>
+                                            <p>
+                                                Bióloga, egresada de la Universidad Autónoma Metropolitana unidad Xochimilco. Maestría en Edafología por el Colegio de Postgraduados Campus Montecillo. Doctorado en Ciencias en el Uso, Manejo y Preservación de los Recursos Naturales por el Centro de Investigaciones Biológicas del Noroeste. Con años de experiencia ejerciendo en el campo de la consultoría ambiental y años en la investigación de los recursos naturales. En el ámbito profesional he colaborado en el Colegio de Posgraduados y en el Servicio Nacional de Inspección de Semilla, en el área de recursos fitogenéticos.
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </main>

@@ -23,7 +23,7 @@
                         </div>
                         <div class="banner-button">
                             <a href="nosotros.php" class="button-round-primary">Más información</a>
-                            <a href="contacto.php" class="button-round-white">Contactar</a>
+                            <a href="contacto.php" class="button-round-white" style="color: #000;">Contactar</a>
                         </div>
                     </div>
                 </div>
