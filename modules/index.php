@@ -54,11 +54,11 @@
                     <div class="col-lg-6">
                         <figure class="video-banner">
                             <img src="assets/images/img1.jpg" alt="">
-                            <div class="video-button">
+                            <!-- <div class="video-button">
                                 <a id="video-container" data-video-id="IUN664s7N-c">
                                     <i class="fas fa-play"></i>
                                 </a>
-                            </div>
+                            </div> -->
                         </figure>
                     </div>
                 </div>
@@ -208,7 +208,7 @@
     </div>
     
     <!-- home contact section html start -->
-    <section class="contact-section" style="background-image: url(assets/images/img5.jpg);">
+    <section class="contact-section" style="background-image: url(assets/images/img19.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -396,9 +396,9 @@
                         <div class="fact-item">
                             <div class="fact-item-content">
                                 <div class="fact-icon">
-                                    <i aria-hidden="true" class="icon icon-user1"></i>
+                                    <i style="color: #fff;" aria-hidden="true" class="icon icon-user1"></i>
                                 </div>
-                                <h4>Todos están sumándose al cambio</h4>
+                                <h4 style="color: #fff;">Todos están sumándose al cambio</h4>
                             </div>
                         </div>
                         <div class="fact-item">
