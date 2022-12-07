@@ -55,8 +55,8 @@
                                             <h4>Teléfono:</h4>
                                             <span>
                                                 <a style="color: black;text-decoration: underline;"
-                                                    href="tel:+521234567890">
-                                                    +52 123 456 7890
+                                                    href="tel:+526121372931">
+                                                    +52 612 137 2931
                                                 </a>
                                             </span>
                                         </div>
@@ -69,8 +69,8 @@
                                             <h4>Correo:</h4>
                                             <span>
                                                 <a style="color: black;text-decoration: underline;"
-                                                    href="mailto:info@ambiente.com">
-                                                    info@ambiente.com
+                                                    href="mailto:info@solucionesambientalesnamanu.com">
+                                                    info@solucionesambientalesnamanu.com
                                                 </a>
                                             </span>
                                         </div>
@@ -120,7 +120,7 @@
                                     </a>
                                 </div> -->
                                 <div class="social-icon social-whatsapp">
-                                    <a href="#" target="_blank">
+                                    <a href="https://wa.me/+526121372931?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
                                         <i class="fab fa-whatsapp"></i>
                                         <span>WhatsApp</span>
                                     </a>
@@ -131,7 +131,7 @@
                                         <span>Linkedin</span>
                                     </a>
                                 </div> -->
-                                <div class="social-icon social-twitter">
+                                <div  class="social-icon social-twitter">
                                     <a href="#" target="_blank">
                                         <i class="fab fa-instagram"></i>
                                         <span>Instagram</span>

@@ -218,3 +218,18 @@
     </div>
 </div>
 <!-- header html end -->
+
+
+<style>
+    #whatsapp {
+        position: fixed;
+        z-index: 999;
+        bottom: 5rem;
+        right: 1rem;
+        width: 3rem;
+    }
+
+</style>
+<a href="https://wa.me/+526121372931?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
+    <img src="assets/images/whats.png" alt="WhatsApp" id="whatsapp" />
+</a>
