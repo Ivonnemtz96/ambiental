@@ -7,11 +7,11 @@
                     <div class="header-contact-info">
                         <ul>
                             <li>
-                                <a href="tel:+521234567890"><i class="fas fa-phone-alt"></i> +52 123 456 7890</a>
+                                <a href="tel:+526121372931"><i class="fas fa-phone-alt"></i> +52 612 137 2931</a>
                             </li>
                             <li>
-                                <a href="mailto:info@consultorambiental.com"><i class="fas fa-envelope"></i>
-                                    info@consultorambiental.com</a>
+                                <a href="mailto:info@solucionesambientalesnamanu.com"><i class="fas fa-envelope"></i>
+                                    info@solucionesambientalesnamanu.com</a>
                             </li>
                             <li>
                                 <i class="fas fa-map-marker-alt"></i> San José del Cabo, B.C.S.
